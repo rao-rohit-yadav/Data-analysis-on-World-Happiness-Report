@@ -1,63 +1,64 @@
 # Data-analysis-on-World-Happiness-Report
-Overview
+# Overview
+
 This project is a comprehensive data analysis pipeline developed using Python in a Jupyter/Google Colab environment. It includes steps for data preprocessing, visualization, and predictive modeling using logistic regression.
 
-****Key Sections in the Notebook****
+# Key Sections in the Notebook
 
-Check for missing values
+• Check for missing values
 
-Rename columns for better readability
+• Rename columns for better readability
 
-Top 10 happiest countries
+• Top 10 happiest countries
 
-Bottom 10 happiest countries
+• Bottom 10 happiest countries
 
-Set visualization style
+• Set visualization style
 
-Happiness Score Distribution
+• Happiness Score Distribution
 
-Top 10 Happiest Countries (Bar chart)
+• Top 10 Happiest Countries (Bar chart)
 
-Correlation with Happiness Score
+• Correlation with Happiness Score
 
-GDP vs Happiness (Scatter plot)
+• GDP vs Happiness (Scatter plot)
 
-Bottom 5 and Top 5 Happiest Countries analysis
+• Bottom 5 and Top 5 Happiest Countries analysis
 
-Convert Ladder Score to binary (0 or 1)
+• Convert Ladder Score to binary (0 or 1)
 
-Impute missing values
+• Impute missing values
 
-Split into train and test sets
+• Split into train and test sets
 
-Train logistic regression model
+• Train logistic regression model
 
-Make predictions and evaluate performance
+• Make predictions and evaluate performance
 
-Display results and make new predictions
+• Display results and make new predictions
 
-****Requirements****
+# Requirements
 
-Python 3.x
+• Python 3.x
 
-Jupyter Notebook or Google Colab
+• Jupyter Notebook or Google Colab
 
-World-happiness-report-2024.csv File to upload
+• World-happiness-report-2024.csv File to upload
 
-Libraries:
+**Libraries:**
 
-pandas
+  • pandas
 
-matplotlib
+  • matplotlib
 
-seaborn
+  • seaborn
 
-sklearn
+  • sklearn
 
-****How to Run****
+# How to Run
 
-Open the notebook in Google Colab or Jupyter.
+• Open the notebook in Google Colab or Jupyter.
 
-Upload your dataset when prompted.
+• Upload your dataset when prompted.
 
-Execute each cell sequentially to perform data analysis and modeling.
+• Execute each cell sequentially to perform data analysis and modeling.
